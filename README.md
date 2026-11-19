@@ -14,10 +14,11 @@ g++ -std=c++23 -O2 main.cpp -o main
 ./main < input.txt
 ```
 
-## Progress: 1 / 400
+## Progress: 2 / 400
 
-### Introductory Problems (1 / 24)
+### Introductory Problems (2 / 24)
 
 | Problem | Solution |
 |---|---|
 | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [main.cpp](01-introductory/1068-weird-algorithm/main.cpp) |
+| [Missing Number](https://cses.fi/problemset/task/1083) | [main.cpp](01-introductory/1083-missing-number/main.cpp) |
