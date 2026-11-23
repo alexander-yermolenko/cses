@@ -14,9 +14,9 @@ g++ -std=c++23 -O2 main.cpp -o main
 ./main < input.txt
 ```
 
-## Progress: 4 / 400
+## Progress: 5 / 400
 
-### Introductory Problems (4 / 24)
+### Introductory Problems (5 / 24)
 
 | Problem | Solution |
 |---|---|
@@ -24,3 +24,4 @@ g++ -std=c++23 -O2 main.cpp -o main
 | [Missing Number](https://cses.fi/problemset/task/1083) | [main.cpp](01-introductory/1083-missing-number/main.cpp) |
 | [Repetitions](https://cses.fi/problemset/task/1069) | [main.cpp](01-introductory/1069-repetitions/main.cpp) |
 | [Increasing Array](https://cses.fi/problemset/task/1094) | [main.cpp](01-introductory/1094-increasing-array/main.cpp) |
+| [Permutations](https://cses.fi/problemset/task/1070) | [main.cpp](01-introductory/1070-permutations/main.cpp) |
