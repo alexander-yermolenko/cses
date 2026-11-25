@@ -1,7 +1,6 @@
 # CSES Problem Set: C++ solutions
 
 My solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++23.
-I add one or two problems a day.
 
 Each problem has its own folder named after its CSES task ID, so `1068-weird-algorithm`
 is [cses.fi/problemset/task/1068](https://cses.fi/problemset/task/1068).
@@ -11,12 +10,11 @@ The problem statements belong to CSES, so the tables link to them instead of cop
 
 ```bash
 g++ -std=c++23 -O2 main.cpp -o main
-./main < input.txt
 ```
 
-## Progress: 5 / 400
+## Progress: 6 / 400
 
-### Introductory Problems (5 / 24)
+### Introductory Problems (6 / 24)
 
 | Problem | Solution |
 |---|---|
@@ -25,3 +23,4 @@ g++ -std=c++23 -O2 main.cpp -o main
 | [Repetitions](https://cses.fi/problemset/task/1069) | [main.cpp](01-introductory/1069-repetitions/main.cpp) |
 | [Increasing Array](https://cses.fi/problemset/task/1094) | [main.cpp](01-introductory/1094-increasing-array/main.cpp) |
 | [Permutations](https://cses.fi/problemset/task/1070) | [main.cpp](01-introductory/1070-permutations/main.cpp) |
+| [Number Spiral](https://cses.fi/problemset/task/1071) | [main.cpp](01-introductory/1071-number-spiral/main.cpp) |
