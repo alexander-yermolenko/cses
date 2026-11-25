@@ -12,9 +12,9 @@ The problem statements belong to CSES, so the tables link to them instead of cop
 g++ -std=c++23 -O2 main.cpp -o main
 ```
 
-## Progress: 7 / 400
+## Progress: 8 / 400
 
-### Introductory Problems (7 / 24)
+### Introductory Problems (8 / 24)
 
 | Problem | Solution |
 |---|---|
@@ -25,3 +25,4 @@ g++ -std=c++23 -O2 main.cpp -o main
 | [Permutations](https://cses.fi/problemset/task/1070) | [main.cpp](01-introductory/1070-permutations/main.cpp) |
 | [Number Spiral](https://cses.fi/problemset/task/1071) | [main.cpp](01-introductory/1071-number-spiral/main.cpp) |
 | [Two Knights](https://cses.fi/problemset/task/1072) | [main.cpp](01-introductory/1072-two-knights/main.cpp) |
+| [Two Sets](https://cses.fi/problemset/task/1092) | [main.cpp](01-introductory/1092-two-sets/main.cpp) |
