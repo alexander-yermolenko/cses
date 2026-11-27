@@ -12,9 +12,9 @@ The problem statements belong to CSES, so the tables link to them instead of cop
 g++ -std=c++23 -O2 main.cpp -o main
 ```
 
-## Progress: 9 / 400
+## Progress: 10 / 400
 
-### Introductory Problems (9 / 24)
+### Introductory Problems (10 / 24)
 
 | Problem | Solution |
 |---|---|
@@ -27,3 +27,4 @@ g++ -std=c++23 -O2 main.cpp -o main
 | [Two Knights](https://cses.fi/problemset/task/1072) | [main.cpp](01-introductory/1072-two-knights/main.cpp) |
 | [Two Sets](https://cses.fi/problemset/task/1092) | [main.cpp](01-introductory/1092-two-sets/main.cpp) |
 | [Bit Strings](https://cses.fi/problemset/task/1617) | [main.cpp](01-introductory/1617-bit-strings/main.cpp) |
+| [Trailing Zeros](https://cses.fi/problemset/task/1618) | [main.cpp](01-introductory/1618-trailing-zeros/main.cpp) |
