@@ -9,12 +9,12 @@ The problem statements belong to CSES, so the tables link to them instead of cop
 ## Running a solution
 
 ```bash
-g++ -std=c++23 -O2 main.cpp -o main
+g++ -std=c++23 main.cpp -o main
 ```
 
-## Progress: 11 / 400
+## Progress: 12 / 400
 
-### Introductory Problems (11 / 24)
+### Introductory Problems (12 / 24)
 
 | Problem | Solution |
 |---|---|
@@ -29,3 +29,4 @@ g++ -std=c++23 -O2 main.cpp -o main
 | [Bit Strings](https://cses.fi/problemset/task/1617) | [main.cpp](01-introductory/1617-bit-strings/main.cpp) |
 | [Trailing Zeros](https://cses.fi/problemset/task/1618) | [main.cpp](01-introductory/1618-trailing-zeros/main.cpp) |
 | [Coin Piles](https://cses.fi/problemset/task/1754) | [main.cpp](01-introductory/1754-coin-piles/main.cpp) |
+| [Palindrome Reorder](https://cses.fi/problemset/task/1755) | [main.cpp](01-introductory/1755-palindrome-reorder/main.cpp) |
